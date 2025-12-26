@@ -1,0 +1,12 @@
+[
+  {"student_id": "S1", "event_type": "login", "timestamp": "2025-01-01T10:00:00"},
+  {"student_id": "S1", "event_type": "view_content", "timestamp": "2025-01-01T10:10:00"},
+  {"student_id": "S1", "event_type": "submit_assignment", "timestamp": "2025-01-02T11:00:00"},
+
+  {"student_id": "S1", "event_type": "login", "timestamp": "2025-01-05T10:00:00"},
+  {"student_id": "S1", "event_type": "view_content", "timestamp": "2025-01-05T10:05:00"},
+
+  {"student_id": "S1", "event_type": "login", "timestamp": "2025-01-10T10:00:00"},
+
+  {"student_id": "S1", "event_type": "login", "timestamp": "2025-01-18T10:00:00"}
+]
